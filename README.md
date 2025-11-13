@@ -1,2 +1,2 @@
 # myproject1
-understanding GitHub 
+understanding GitHub and local and remote repository
